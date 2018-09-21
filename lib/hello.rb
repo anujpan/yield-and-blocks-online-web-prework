@@ -7,4 +7,4 @@ def hello_t(array)
   end
 end
 
-hello_t(5)
+hello_t(["Tim", "Tom", "Jim"])
