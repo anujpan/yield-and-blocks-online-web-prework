@@ -8,6 +8,9 @@ def hello_t(array)
     end
     
     array
+  else
+    
+  end
 end
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
